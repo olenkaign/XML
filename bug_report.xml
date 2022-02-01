@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+ <Title>BUG-REPORT</Title>
+<ID>1</ID>
+<Title>CART_Unable to add new item to a cart</Title>
+<Environment>MacBook Air 2018, MacOS Big Sur, Yandex Browser</Environment>
+<Steps_to_reproduce>1_Go to product page,2_Press to Add to cart button,3_Go to cart</Steps_to_reproduce>
+<Priority>High</Priority>
+<Severity>Critical</Severity>
+<Expected_Result>The cart containes 1 item</Expected_Result>
+<Actual_Result>The cart containes 0 itemsthon</Actual_Result>
+</note>	
